@@ -1,7 +1,7 @@
 <head>
 <style>
 body {
-	margin:10px;
+	margin:0px;
 }
 div.sfbg, div.sfbgg {
     height: 39px;
